@@ -1,6 +1,6 @@
-.- 👋 Hi, I’m @elliele and I'm gourmand and travel enthusiast.
+- 👋 Hi, I’m @elliele and I'm gourmand and travel enthusiast.
 - 👀 I’m interested in AI and Data Engineering.
-- 🌱 I’m currently learning machine learning, neural networks, SQL.
+- 🌱 I’m currently learning machine learning, neural networks, and SQL.
 - 💞️ I’m looking to collaborate on Kaggle projects.
 - 📫 How to reach me: Twitter @Ellie_Le_
 
